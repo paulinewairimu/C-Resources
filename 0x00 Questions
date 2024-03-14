@@ -1,0 +1,50 @@
+Question #0
+Which command can be used to compile a C source file?
+c-compiler
+bash
+gcc
+
+Question #1
+In which category belongs the C programming language?
+Interpreted language
+Compiled language
+
+Question #2
+Which of the following are both valid comment syntaxes in ANSI C, and Betty-compliant?
+/*
+Comment
+*/
+
+# Comment
+
+/* Comment */ - ANS
+
+/* Comment /* nested */ */
+
+/*
+ * Comment - ANS
+ */
+
+// Comment
+
+Question #3
+What are the different steps to form an executable file from C source code
+Interpretation, assembly and compilation
+Interpretation, compilation and assembly
+Preprocessing and compilation
+Compilation and linking
+Preprocessing, compilation, assembly, and linking
+
+Question #4
+What is the common extension for a C source file?
+.cpp
+.txt
+.py
+.c
+
+Question #5
+What is the common extension for a C header file?
+.h
+.header
+.ch
+.hpp
